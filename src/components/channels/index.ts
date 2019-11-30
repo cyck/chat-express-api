@@ -1,0 +1,1 @@
+export { default as channels } from './Channels.routes';
